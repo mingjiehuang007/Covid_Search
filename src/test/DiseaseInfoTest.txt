@@ -1,0 +1,101 @@
+DOID	Disease_NAME	Synonym
+DOID:0050573	2-hydroxyglutaric aciduria	
+DOID:0060241	3-M syndrome	dolichospondylic dysplasia;gloomy face syndrome;Le Merrer syndrome;Miller-McKusick-Malvaux syndrome;three M syndrome;Yakut short stature syndrome
+DOID:0060225	3MC syndrome	craniofacial-ulnar-renal syndrome;oculopalatoskeletal syndrome
+DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	3-Methylcrotonylglycinuria;3MCC deficiency;BMCC deficiency
+DOID:14450	46 XX gonadal dysgenesis	ovarian dysgenesis
+DOID:14448	"46,XY sex reversal"	"46 XY gonadal dysgenesis;Pure gonadal dysgenesis 46,XY;Swyer syndrome"
+DOID:6691	Aagenaes syndrome	"Cholestasis-edema syndrome, Norwegian type"
+DOID:0050600	ABCD syndrome	"ABCDS;albinism, black lock, cell migration disorder of the neurocytes of the gut, and deafness"
+DOID:7693	abdominal aortic aneurysm	"AORTIC ANEURYSM, FAMILIAL ABDOMINAL 1"
+DOID:14221	abdominal obesity-metabolic syndrome 1	abdominal obesity-metabolic syndrome 1;dysmetabolic syndrome X;metabolic syndrome X
+DOID:0050599	abdominal tuberculosis	
+DOID:10865	abducens nerve disease	Abducens nerve weakness;Lateral rectus muscle denervation paresis;Lateral rectus muscle innervation disorder;Sixth cranial nerve disorder;Sixth nerve palsy;Sixth or abducens nerve palsy;VIth nerve disorder;VIth nerve Paralysis
+DOID:14125	abducens nerve neoplasm	neoplasm of abducens nerve;VIth Cranial nerve tumors
+DOID:1386	abetalipoproteinemia	familial hypobetalipoproteinemia;microsomal triglyceride transfer protein deficiency disease
+DOID:11518	abnormal pupillary function	
+DOID:12668	abnormal retinal correspondence	
+DOID:11874	abnormal threshold of rods	abnormal dark adaptation curve
+DOID:14427	abnormality of glucagon secretion	Glucagon secretion abnormality
+DOID:11776	absolute glaucoma	blind hypertensive eye
+DOID:2828	acalculous cholecystitis	acute acalculous cholecystitis;acute cholecystitis without calculus;cholecystitis without calculus
+DOID:0050254	acanthocephaliasis	
+DOID:4324	acantholytic acanthoma	Acantholytic acanthoma
+DOID:7643	acantholytic squamous cell skin carcinoma	Acantholytic squamous cell carcinoma of skin;acantholytic squamous cell carcinoma of skin;Acantholytic squamous cell skin carcinoma
+DOID:7459	acantholytic variant squamous cell breast carcinoma	
+DOID:174	acanthoma	
+DOID:3138	acanthosis nigricans	Acanthosis nigricans;AN - Acanthosis nigricans;Keratosis nigricans;keratosis nigricans
+DOID:2582	acatalasia	deficiency of catalase
+DOID:339	accessory nerve disease	disorder of 11th nerve;disorder of accessory [11th] nerve;disorder of accessory nerve;Eleventh nerve disorder
+DOID:9839	accommodative esotropia	
+DOID:11637	accommodative spasm	Spasm of accommodation
+DOID:0050711	aceruloplasminemia	
+DOID:9164	achalasia	achalasia of cardia;achalasia of esophagus;cardiospasm;esophageal achalasia;hypertensive lower esophageal sphincter;Lack of reflex relaxation of lower oesophageal sphincter
+DOID:0050796	achalasia microcephaly syndrome	Achalasia microcephaly;ACHALASIA-MICROCEPHALY SYNDROME
+DOID:6686	Achard syndrome	
+DOID:0050603	acheiropody	Acheiropodia;Horn-Kolb Syndrome
+DOID:6687	Achenbach syndrome	Paroxysmal hematoma of the finger
+DOID:12857	Achilles bursitis	Achilles bursitis or tendinitis;Capped hock;Haglund's deformity;Haglund's disease
+DOID:0080043	achondrogenesis	
+DOID:0080054	achondrogenesis type IA	achondrogenesis Houston-Harris type
+DOID:0080055	achondrogenesis type IB	achondrogenesis Fraccaro type
+DOID:0080056	achondrogenesis type II	
+DOID:4480	achondroplasia	Achondroplastic physique;Chondrodystrophia;osteosclerosis congenita
+DOID:13911	achromatopsia	ACHM;Monochromatism
+DOID:5392	acidophil adenoma	Eosinophil adenoma
+DOID:3025	acinar cell carcinoma	acinic cell carcinoma
+DOID:7729	acinar cell cystadenocarcinoma	pancreatic acinar cell cystadenocarcinoma
+DOID:5743	acinic cell breast carcinoma	
+DOID:6543	acne	Acne varioliformis;acne vulgaris;frontalis acne
+DOID:4399	acneiform dermatitis	
+DOID:12689	acoustic neuroma	Vestibular Neurilemmoma;Vestibular schwannoma
+DOID:13912	acquired color blindness	acquired color vision deficiencies;acquired color vision deficiency;acquired colour blindness;acquired colour vision deficiencies;acquired colour vision deficiency
+DOID:14099	acquired gastric outlet stenosis	acquired hypertrophic pyloric stenosis;adult hypertrophic pyloric stenosis
+DOID:492	acquired hemangioma	
+DOID:13072	acquired hyperkeratosis	"acquired Keratoderma;acquired keratoderma;Keratoderma - acquired;Keratoderma, acquired"
+DOID:635	acquired immunodeficiency syndrome	acquired Immune deficiency;acquired immune deficiency syndrome;AIDS
+DOID:0060158	acquired metabolic disease	
+DOID:11491	acquired night blindness	
+DOID:2834	acquired polycythemia	"Polycythemia, secondary;secondary Polycythemia;secondary polycythemia"
+DOID:13655	acquired tear duct stenosis	"acquired nasolacrimal duct stenosis;acquired stenosis of nasolacrimal duct;Stenosis of nasolacrimal duct, acquired;Tear duct - acquired stenosis"
+DOID:11126	acquired thrombocytopenia	secondary thrombocytopenia
+DOID:6367	acral lentiginous melanoma	"acral lentiginous melanoma, malignant;malignant acral lentiginous melanoma"
+DOID:9250	acrocallosal syndrome	ACLS;SCHINZEL ACROCALLOSAL SYNDROME;Schinzel syndrome 1
+DOID:0050604	acrocapitofemoral dysplasia	
+DOID:12960	acrocephalosyndactylia	Apert syndrome
+DOID:2722	acrodermatitis	
+DOID:0050605	acrodermatitis enteropathica	
+DOID:14669	acrodysostosis	
+DOID:0060226	acrofrontofacionasal dysostosis	AFFN dysostosis;Richieri-Costa-Colletto syndrome
+DOID:0050606	acrokeratosis verruciformis	Acrokeratosis verruciformis of Hopf;Hopf disease
+DOID:2449	acromegaly	
+DOID:0080049	acromesomelic dysplasia	
+DOID:0080052	"acromesomelic dysplasia, Grebe type"	grebe chondrodysplasia
+DOID:0080051	"acromesomelic dysplasia, Hunter-Thompson type"	acromesomelic dwarfism
+DOID:0080050	"acromesomelic dysplasia, Maroteaux type"	
+DOID:7004	ACTH-secreting pituitary adenoma	ACTH-Producing Pituitary Adenoma;Corticotroph adenoma;Corticotropinoma
+DOID:8866	actinic keratosis	actinic (Solar) Keratosis;Senile hyperkeratosis;SK - Solar keratosis;Solar keratosis
+DOID:4974	actinobacillosis	
+DOID:8478	actinomycosis	actinomycetoma;actinomycotic infection;Actinomycotic madura foot;Actinomycotic mycetema;Actinomycotic mycetoma of foot;boil;Madura foot due to Actinomadura
+DOID:13492	active cochlear Meniere's disease	"active cochlear Meniere disease;active Meniere's disease, cochlear;Cochlear active Mnire's disease"
+DOID:13490	active cochleovestibular Meniere's disease	"active cochleovestibular Meniere disease;active Meniere's disease, cochleovestibular;Cochleovestibular active Mnire's disease"
+DOID:749	active peptic ulcer disease	GI Bleeding;NA
+DOID:13491	active vestibular Meniere's disease	"active Meniere's disease, vestibular;active vestibular Meniere disease;Vestibular active Mnire's disease"
+DOID:9735	acute allergic mucoid otitis media	
+DOID:3728	acute allergic sanguinous otitis media	
+DOID:11558	acute allergic serous otitis media	
+DOID:10651	acute anterolateral myocardial infarction	
+DOID:11693	acute apical periodontitis	acute apical periodontitis of pulpal origin
+DOID:6969	acute canaliculitis	"acute canaliculitis, lacrimal;acute lacrimal canaliculitis"
+DOID:10616	acute cervicitis	
+DOID:1584	acute chest syndrome	acute chest syndrome in sickle cell disease
+DOID:14271	acute cholangitis	acute Cholangitis
+DOID:13862	acute closed-angle glaucoma	acute angle-closure glaucoma
+DOID:11184	acute conjunctivitis	
+DOID:11213	acute contagious conjunctivitis	Contagious opthalmia;Pink eye;Pinkeye
+DOID:8517	acute cor pulmonale	
+DOID:13148	acute cystitis	
+DOID:952	acute dacryoadenitis	
+DOID:12996	acute dacryocystitis	Dacryocystitis - acute
+DOID:0050140	acute diarrhea	
+DOID:14066	acute diffuse nephritis	acute Diffuse Glomerulonephritis

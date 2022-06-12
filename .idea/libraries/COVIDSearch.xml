@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="COVIDSearch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/COVIDSearch_jar/COVIDSearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

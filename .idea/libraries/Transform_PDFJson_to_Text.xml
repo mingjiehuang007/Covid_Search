@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Transform_PDFJson_to_Text">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Transform_PDFJson_to_Text/Transform_PDFJson_to_Text.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

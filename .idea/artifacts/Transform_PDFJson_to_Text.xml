@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Transform_PDFJson_to_Text">
+    <output-path>$PROJECT_DIR$/out/artifacts/Transform_PDFJson_to_Text</output-path>
+    <root id="archive" name="Transform_PDFJson_to_Text.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.11.0-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="directory" name="basic">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/COVIDSearch1/basic/JsonTestPdfJson.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/COVIDSearch1/basic/Util.class" />
+      </element>
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-csv-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
